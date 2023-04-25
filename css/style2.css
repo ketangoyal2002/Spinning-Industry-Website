@@ -1,0 +1,122 @@
+.top{
+	background-color: #b6bf00;
+	padding-left: 35px;
+	padding-right: 35px;
+	/*padding-top: 8px;*/
+	/*padding-bottom: 5px;*/
+	color: white;
+	letter-spacing: 1px;
+	font-weight: bold;
+	font-size: 14px;
+}
+.logoimg a img{
+	margin-left: 45px;
+}
+.btnsul{
+	margin-right: 35px;
+}
+.btnsul li a{
+	margin-top: 30px;
+	color: black;
+	font-family: Calibri;
+	font-size: 16px;
+	text-transform: uppercase;
+	transition: .2s;
+}
+.btnsul li a:hover{
+	color: white;
+	background-color: #b6bf00;
+}
+.banner{
+	background-image: url(../images/banner1.jpg);
+	background-size: 140% 100%;
+	background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    height: 180px;
+}
+.banner .col-md-3{
+	padding-top: 55px;
+	padding-left: 55x;
+}
+.banner .col-md-3 span{
+	font-size: 30px;
+	font-family: Calibri;
+	text-transform: uppercase;
+	padding: 5px;
+	border-bottom: 3px solid #b6bf00;
+}
+.firstdiv{
+	padding: 45px;
+	
+}
+.firstdiv h1{
+	font-size: 21px;
+	font-family: Calibri;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+.firstdiv p{
+	font-family: Calibri light;
+	font-size: 18px;
+	margin-top: 10px;
+	text-align: justify;
+	margin-bottom: 10px;
+}
+.seconddiv{
+	padding-top: 5px;
+	padding-bottom: 35px;
+}
+.blue{
+	background-color: #1253a4;
+	color: white;
+}
+.blue h1,i{
+	font-size: 26px;
+	margin-left: 5px;
+	margin-top: 15px;
+}
+.blue p{
+	font-size: 18px;
+	padding: 15px;
+	font-family: Calibri light;
+	line-height: 25px;
+	letter-spacing: .5px;
+	text-align: justify;
+}
+.footer{
+	background: #353535;
+	color:#fff;
+	padding: 15px;
+	font-family: 'Dosis-Regular-webfont';
+}
+.footer h3,h4{
+	margin-bottom: 5px;
+}
+.footer h4{
+	font-size: 18px;
+}
+.footer a,i{ color:#b6bf00; }
+
+.links{
+	padding: 0;
+}
+.links i{
+	margin-right: 10px;
+}
+
+.links li{
+	list-style: none;
+	display: block;
+}
+.links li a{
+	display: block;
+	color:#fff;
+	font-size: 15px;
+	/*padding: 5px 10px;*/
+	letter-spacing: 1px;
+}
+.links li a:hover{
+	background: #b6bf00;
+	text-decoration: none;
+}

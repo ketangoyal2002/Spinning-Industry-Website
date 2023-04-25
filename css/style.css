@@ -1,0 +1,164 @@
+.top {
+    background-color: #b6bf00;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 8px;
+    /*padding-bottom: 5px;*/
+    color: white;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.logoimg a img {
+    margin-left: 45px;
+}
+
+.logoimg a:hover {
+    text-decoration: none;
+    background: none;
+    background-color: white;
+}
+
+.btnsul {
+    margin-right: 35px;
+}
+
+.btnsul li a {
+    margin-top: 30px;
+    color: black;
+    font-family: Calibri;
+    font-size: 16px;
+    text-transform: uppercase;
+    transition: .2s;
+}
+
+.btnsul li a:hover {
+    color: white;
+    background-color: #b6bf00;
+}
+
+.banner {
+    background-image: url(../images/banner.jpg);
+    background-size: 140% 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.firstdiv {
+    padding: 45px;
+    padding-top: 45px;
+    /*background-image: url(../images/bci.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 10px;
+	width: 50%;*/
+}
+
+.firstdiv span {
+    color: #b6bf00;
+    font-size: 24px;
+}
+
+.firstdiv h2 {
+    font-family: Calibri;
+    font-size: 34px;
+    margin-top: 10px;
+}
+
+.firstdiv h3 {
+    font-size: 24px;
+    font-family: Calibri;
+    margin-bottom: 25px;
+}
+
+.firstdiv p {
+    text-align: justify;
+    font-size: 18px;
+    font-family: Calibri light;
+    line-height: 30px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.firstdiv a {
+    background-color: #b6bf00;
+    padding: 15px;
+    color: white;
+    font-size: 16px;
+}
+
+.bigbox {
+    /*padding: 75px;*/
+    padding: 45px;
+}
+
+.box {
+    padding: 15px;
+    padding-top: 5px;
+    box-shadow: 0 0 3px 0 darkgrey;
+}
+
+.box h2 {
+    background-color: #b6bf00;
+    font-size: 21px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.box p {
+    font-size: 16px;
+    text-align: justify;
+    font-family: Calibri light;
+    padding: 5px;
+    letter-spacing: 1px;
+}
+
+.footer {
+    background: #353535;
+    color: #fff;
+    padding: 15px;
+    font-family: 'Dosis-Regular-webfont';
+}
+
+.footer h3,
+h4 {
+    margin-bottom: 25px;
+}
+
+.footer h4 {
+    font-size: 18px;
+}
+
+.footer a,
+i {
+    color: #b6bf00;
+}
+
+.links {
+    padding: 0;
+}
+
+.links i {
+    margin-right: 10px;
+}
+
+.links li {
+    list-style: none;
+    display: block;
+}
+
+.links li a {
+    display: block;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px 10px;
+}
+
+.links li a:hover {
+    background: #b6bf00;
+    text-decoration: none;
+}
